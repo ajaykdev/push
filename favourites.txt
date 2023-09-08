@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Biryani
 Pulao
 FriedRice
+=======
+Inception
+Predestination
+RRR
+>>>>>>> movies
